@@ -14,7 +14,7 @@ crypto==1.4.1
 cryptography==2.8
 cycler==0.10.0
 Cython==0.29.15
-Django==3.0.3
+Django==3.0.7
 docx2txt==0.8
 EbookLib==0.17.1
 et-xmlfile==1.0.1
